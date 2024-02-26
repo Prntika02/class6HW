@@ -1,0 +1,117 @@
+
+*{
+    background-color:#bdc3c7;;
+}
+
+.h{   
+    color: #0a3d62;
+    background-color: #9980FA;
+    text-align: center;
+    font-size: 35px;   
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
+    
+p{
+    text-align: justify;
+    text-align-last:center;
+    line-height: 20px;
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px; 
+ 
+
+}
+.pra2{
+    color: #0a3d62;
+   
+}
+
+
+#btn {
+    width: 150px;
+    height: 150px;
+    background-color:#2C3A47;
+    line-height: 150px;
+    text-align-last: center;
+    text-decoration: line-through;
+    color: #b2a878;
+}
+.hgg{
+    color:#1B1464;
+    background-color:#dfe4ea;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+     text-transform: capitalize;
+    letter-spacing: 5px;
+    width: 150px;
+    height: 150px;
+
+}
+
+#hgg2 {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    background-color: #9980FA;
+    color:#1e272e;
+    text-decoration: none;
+    font-size: 20px;
+}
+.btn2{
+    
+    background-color: #eceae5;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align-last: center;
+    padding: 15px 32px;
+    text-transform: uppercase;
+}
+.btn3{
+    width:50px;
+    height:50px;
+    text-decoration: none;
+    line-height: 50px;
+    background-color:#FDA7DF;
+    text-align-last: center; 
+    color: #0c0c0b;
+    text-transform: uppercase;
+    padding: 15px 32px;
+   
+}
+.btn4{
+    width:50px;
+    height:50px;
+    background-color:#A3CB38;
+    text-align-last: center;
+    line-height: 50px;
+    color: #0f0f0f;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 32px;
+   
+}
+    
+.btn5{
+    width:50px;
+    height:50px;
+    background-color:#eccc68;
+    text-align-last: center;
+    line-height: 50px;
+    color: #0a0a09;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 32px;
+   
+}
+
